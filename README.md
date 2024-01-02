@@ -1,4 +1,4 @@
-# Senitment_Analysis
-Analysing the sentiments of the reviews given by Amazon purchasers
+## _Senitment Analysis_
 
-There are two files commited by the user, first one uses the csv file as an input and the other one uses txt file as an input
+This project performs sentiment analysis on textual data using machine learning techniques. It can be used to analyze the sentiment of reviews, comments, or any other text-based data.
+
